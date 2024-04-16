@@ -1,0 +1,1 @@
+from .movie_routes import index, add_movie, get_movies
